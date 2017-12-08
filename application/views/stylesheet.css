@@ -1,0 +1,90 @@
+body
+{
+background-color:#6699ff;
+color: #d5e3ff;
+font-family: Arial;
+
+
+}
+
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+
+}
+
+header {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    background-image: url("bigfish.gif");
+background-repeat: no-repeat;	
+ background-size:contain;
+    text-align: center;
+text-shadow: 1px 2px #aaa;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+font-size: 1.1em;
+font-style: Bold;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 150px;
+   
+    padding: 1em;
+    overflow: hidden;
+}
+
+footer.small{
+font-style: italic;
+font-size: 0.70em;
+
+}
+
+text em{
+font-family: Arial;
+}
+
+b, strong{
+color: black;
+}
+
+h1{
+   line-height: 200%;
+   color:#d5e3ff;
+   text-shadow: 1px 2px #dedede;
+  }
+
+#wrapper
+{
+margin-left: 10%;
+margin-right: 10%;
+}
+
+a:link {
+    color:#2a2ac0;
+}
+
+
+a:visited {
+    color: #037aba;
+}
+
+p{
+color:#460da5;
+}
